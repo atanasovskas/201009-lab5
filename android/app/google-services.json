@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607007144310",
+    "project_id": "lab3-ecdea",
+    "storage_bucket": "lab3-ecdea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607007144310:android:15722e100cb403d7cca257",
+        "android_client_info": {
+          "package_name": "com.example.mis_lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSBa4XIyjGbtRt7cwp9-7QB-9NTsKfoZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
